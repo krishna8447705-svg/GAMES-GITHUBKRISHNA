@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fast ND Praise",
+      "hasCanvas": false,
+      "bodyTextLen": 407,
+      "bodyTextHash": "d33cc118a84b3df78d5cbb48e97b9b6031b690cc9c4dd13e6612e7244e1e9acb",
+      "bodyTextPrefix": "NIGHT HIGHWAY FAST ND PRAISE Chase camera locked just behind the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fast ND Praise",
+      "hasCanvas": false,
+      "bodyTextLen": 407,
+      "bodyTextHash": "d33cc118a84b3df78d5cbb48e97b9b6031b690cc9c4dd13e6612e7244e1e9acb",
+      "bodyTextPrefix": "NIGHT HIGHWAY FAST ND PRAISE Chase camera locked just behind the",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
